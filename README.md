@@ -1,6 +1,4 @@
-Sure! Here's a combined **`README.md`** for the **To-Do Application** project, explaining both the frontend (React) and backend (Node.js/Express) setup, functionality, and how to run the full application.
 
----
 
 # To-Do Application
 
